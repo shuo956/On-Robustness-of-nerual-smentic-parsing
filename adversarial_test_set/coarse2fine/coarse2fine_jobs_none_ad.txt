@@ -1,0 +1,5 @@
+what kind of job could i found for an old languageid0 titleid0	( answer ( job ANS ) ( language ANS languageid0 ) ( title ANS titleid0 ) )
+are there any employ with companyid0	( answer ( job ANS ) ( company ANS companyid0 ) )
+what languageid0 job are found with companyid0 in locid0	( answer ( language ANS languageid0 ) ( job ANS ) ( company ANS companyid0 ) ( loc ANS locid0 ) )
+what job in locid0 are there that paid at least num_salary per year	( answer ( job ANS ) ( loc ANS locid0 ) ( salary_greater_than ANS num_salary year ) )
+what can i found use languageid0 on platformid0	( answer ( job ANS ) ( language ANS languageid0 ) ( platform ANS platformid0 ) )

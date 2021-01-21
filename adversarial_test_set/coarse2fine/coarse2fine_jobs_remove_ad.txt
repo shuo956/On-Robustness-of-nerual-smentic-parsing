@@ -1,0 +1,8 @@
+what job can a languageid0 titleid0 find in locid0 platformid0	( answer ( job ANS ) ( language ANS languageid0 ) ( title ANS titleid0 ) ( loc ANS locid0 ) ( platform ANS platformid0 ) )
+show me the job that require year of experience but desire year0 year of experience	( answer ( job ANS ) ( req_exp ANS year0 ) ( des_exp ANS year1 ) )
+what job use languageid0 companyid0 machin and pay num_salary	( answer ( job ANS ) ( language ANS languageid0 ) ( platform ANS platformid0 ) ( salary_greater_than ANS num_salary year ) )
+what job are there companyid0	( answer ( job ANS ) ( platform ANS platformid0 ) )
+show me the job require year of experience at companyid0	( answer ( job ANS ) ( req_exp ANS year0 ) ( company ANS companyid0 ) )
+list the job require languageid0 a degid0 year experience	( answer ( job ANS ) ( language ANS languageid0 ) ( req_deg ANS degid0 ) ( req_exp ANS year0 ) )
+show me job that require year work experience in languageid0	( answer ( job ANS ) ( req_exp ANS year0 ) ( language ANS languageid0 ) )
+show me job use languageid0 on platformid0	( answer ( loc ANS locid0 ) ( job ANS ) ( language ANS languageid0 ) ( platform ANS platformid0 ) )

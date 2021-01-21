@@ -1,0 +1,5 @@
+list employ in locid0	job ( ANS ) , loc ( ANS , locid0 )
+what job are there util languageid0	job ( ANS ) , language ( ANS , languageid0 )
+show me all of the areaid0 employ in locid0	area ( ANS , areaid0 ) , job ( ANS ) , loc ( ANS , locid0 )
+show me the areaid0 employ in locid0 with a salari of num_salary	area ( ANS , areaid0 ) , job ( ANS ) , loc ( ANS , locid0 ) , salary_greater_than ( ANS , num_salary , year )
+show me the areaid0 career in locid0 with a salari of num_salary	area ( ANS , areaid0 ) , job ( ANS ) , loc ( ANS , locid0 ) , salary_greater_than ( ANS , num_salary , year )

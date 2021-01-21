@@ -1,0 +1,4 @@
+list employ in locid0	job ( ANS ) , loc ( ANS , locid0 )
+show me all of the areaid0 employ in locid0	area ( ANS , areaid0 ) , job ( ANS ) , loc ( ANS , locid0 )
+give me titleid0 job requir no experi on platformid0	title ( ANS , titleid0 ) , job ( ANS ) , \+ ( req_exp ( ANS ) , platform ( ANS , platformid0 ) )
+give me locid0 job desir a degid0	loc ( ANS , locid0 ) , job ( ANS ) , des_deg ( ANS , degid0 )

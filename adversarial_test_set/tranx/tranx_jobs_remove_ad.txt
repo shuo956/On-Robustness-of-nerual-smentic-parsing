@@ -1,0 +1,6 @@
+anyon still use platformid0	job ( ANS ) , platform ( ANS , platformid0 )
+show me the job that requir year of experi but desir year0 year of experi	job ( ANS ) , req_exp ( ANS , year0 ) , des_exp ( ANS , year1 )
+what job use languageid0 companyid0 machin and pay num_salary	job ( ANS ) , language ( ANS , languageid0 ) , platform ( ANS , platformid0 ) , salary_greater_than ( ANS , num_salary , year )
+are there ani job requir a degid0 companyid0 in locid0	job ( ANS ) , req_deg ( ANS , degid0 ) , company ( ANS , companyid0 ) , loc ( ANS , locid0 )
+what job are there companyid0	job ( ANS ) , platform ( ANS , platformid0 )
+show me job use languageid0 on platformid0	loc ( ANS , locid0 ) , job ( ANS ) , language ( ANS , languageid0 ) , platform ( ANS , platformid0 )
